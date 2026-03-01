@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": {
+      "name": "TechCorp Inc",
+      "logo": "https://via.placeholder.com/100x100?text=TC",
+      "size": "Large",
+      "industry": "Technology",
+      "description": "Leading technology company focused on innovative software solutions"
+    },
+    "description": "We are seeking a Senior Software Engineer to join our dynamic team. You will be responsible for designing, developing, and maintaining scalable web applications using modern technologies. The ideal candidate has strong experience with React, Node.js, and cloud platforms.",
+    "shortDescription": "Join our team as a Senior Software Engineer working with React, Node.js, and cloud technologies to build scalable applications.",
+    "requirements": {
+      "skills": [
+        {"name": "JavaScript", "level": "Advanced", "required": true, "category": "Programming"},
+        {"name": "React", "level": "Advanced", "required": true, "category": "Framework"},
+        {"name": "Node.js", "level": "Intermediate", "required": true, "category": "Framework"},
+        {"name": "AWS", "level": "Intermediate", "required": false, "category": "Cloud"},
+        {"name": "MongoDB", "level": "Intermediate", "required": false, "category": "Database"},
+        {"name": "Leadership", "level": "Intermediate", "required": false, "category": "Soft Skill"}
+      ],
+      "experience": {
+        "min": 5,
+        "max": 10,
+        "level": "Senior"
+      },
+      "education": {
+        "degree": "Bachelor",
+        "field": "Computer Science",
+        "required": false
+      }
+    },
+    "details": {
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "United States"
+      },
+      "workMode": "Hybrid",
+      "employmentType": "Full-time",
+      "salaryRange": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "USD",
+        "period": "yearly"
+      },
+      "benefits": ["Health Insurance", "401k", "Remote Work", "Stock Options"]
+    },
+    "source": {
+      "platform": "Company Website"
+    },
+    "postedDate": "2024-01-15T00:00:00Z",
+    "isActive": true,
+    "isFeatured": true,
+    "qualityScore": 95
+  },
+  {
+    "title": "Frontend Developer",
+    "company": {
+      "name": "StartupXYZ",
+      "logo": "https://via.placeholder.com/100x100?text=SX",
+      "size": "Startup",
+      "industry": "E-commerce",
+      "description": "Fast-growing e-commerce startup revolutionizing online shopping"
+    },
+    "description": "Looking for a passionate Frontend Developer to create amazing user experiences. You'll work with React, TypeScript, and modern CSS frameworks to build responsive, accessible web applications. Great opportunity to grow with a fast-paced startup.",
+    "shortDescription": "Create amazing user experiences with React and TypeScript at a fast-growing e-commerce startup.",
+    "requirements": {
+      "skills": [
+        {"name": "React", "level": "Intermediate", "required": true, "category": "Framework"},
+        {"name": "TypeScript", "level": "Intermediate", "required": true, "category": "Programming"},
+        {"name": "CSS", "level": "Advanced", "required": true, "category": "Programming"},
+        {"name": "HTML", "level": "Advanced", "required": true, "category": "Programming"},
+        {"name": "Figma", "level": "Beginner", "required": false, "category": "Tool"}
+      ],
+      "experience": {
+        "min": 2,
+        "max": 5,
+        "level": "Mid"
+      },
+      "education": {
+        "degree": "Bachelor",
+        "required": false
+      }
+    },
+    "details": {
+      "location": {
+        "city": "Austin",
+        "state": "TX",
+        "country": "United States"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full-time",
+      "salaryRange": {
+        "min": 80000,
+        "max": 120000,
+        "currency": "USD",
+        "period": "yearly"
+      },
+      "benefits": ["Health Insurance", "Remote Work", "Flexible Hours", "Stock Options"]
+    },
+    "source": {
+      "platform": "AngelList"
+    },
+    "postedDate": "2024-01-10T00:00:00Z",
+    "isActive": true,
+    "qualityScore": 85
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "InnovateLabs",
+      "logo": "https://via.placeholder.com/100x100?text=IL",
+      "size": "Medium",
+      "industry": "Healthcare Technology",
+      "description": "Healthcare technology company improving patient outcomes through innovative software"
+    },
+    "description": "Join our mission to revolutionize healthcare technology. We're looking for a Full Stack Developer proficient in Python, Django, React, and PostgreSQL. You'll work on applications that directly impact patient care and healthcare efficiency.",
+    "shortDescription": "Build healthcare applications that impact patient care using Python, Django, React, and PostgreSQL.",
+    "requirements": {
+      "skills": [
+        {"name": "Python", "level": "Advanced", "required": true, "category": "Programming"},
+        {"name": "Django", "level": "Intermediate", "required": true, "category": "Framework"},
+        {"name": "React", "level": "Intermediate", "required": true, "category": "Framework"},
+        {"name": "PostgreSQL", "level": "Intermediate", "required": true, "category": "Database"},
+        {"name": "Docker", "level": "Beginner", "required": false, "category": "Tool"}
+      ],
+      "experience": {
+        "min": 3,
+        "max": 7,
+        "level": "Mid"
+      },
+      "education": {
+        "degree": "Bachelor",
+        "field": "Computer Science",
+        "required": true
+      }
+    },
+    "details": {
+      "location": {
+        "city": "Boston",
+        "state": "MA",
+        "country": "United States"
+      },
+      "workMode": "Hybrid",
+      "employmentType": "Full-time",
+      "salaryRange": {
+        "min": 100000,
+        "max": 140000,
+        "currency": "USD",
+        "period": "yearly"
+      },
+      "benefits": ["Health Insurance", "Dental Insurance", "401k", "Professional Development"]
+    },
+    "source": {
+      "platform": "LinkedIn"
+    },
+    "postedDate": "2024-01-12T00:00:00Z",
+    "isActive": true,
+    "qualityScore": 90
+  },
+  {
+    "title": "Data Scientist",
+    "company": {
+      "name": "DataDriven Corp",
+      "logo": "https://via.placeholder.com/100x100?text=DD",
+      "size": "Large",
+      "industry": "Financial Services",
+      "description": "Leading financial services company leveraging data science for better decision making"
+    },
+    "description": "We're seeking a Data Scientist to join our analytics team. You'll work with large datasets, build machine learning models, and provide insights that drive business decisions. Experience with Python, SQL, and machine learning frameworks required.",
+    "shortDescription": "Build ML models and provide data insights using Python, SQL, and advanced analytics techniques.",
+    "requirements": {
+      "skills": [
+        {"name": "Python", "level": "Advanced", "required": true, "category": "Programming"},
+        {"name": "SQL", "level": "Advanced", "required": true, "category": "Database"},
+        {"name": "Machine Learning", "level": "Intermediate", "required": true, "category": "Other"},
+        {"name": "Pandas", "level": "Advanced", "required": true, "category": "Tool"},
+        {"name": "TensorFlow", "level": "Intermediate", "required": false, "category": "Framework"},
+        {"name": "R", "level": "Intermediate", "required": false, "category": "Programming"}
+      ],
+      "experience": {
+        "min": 4,
+        "max": 8,
+        "level": "Senior"
+      },
+      "education": {
+        "degree": "Master",
+        "field": "Data Science",
+        "required": true
+      }
+    },
+    "details": {
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "United States"
+      },
+      "workMode": "Onsite",
+      "employmentType": "Full-time",
+      "salaryRange": {
+        "min": 130000,
+        "max": 200000,
+        "currency": "USD",
+        "period": "yearly"
+      },
+      "benefits": ["Health Insurance", "Dental Insurance", "Vision Insurance", "401k", "Bonus"]
+    },
+    "source": {
+      "platform": "Indeed"
+    },
+    "postedDate": "2024-01-08T00:00:00Z",
+    "isActive": true,
+    "qualityScore": 92
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "CloudFirst Solutions",
+      "logo": "https://via.placeholder.com/100x100?text=CF",
+      "size": "Medium",
+      "industry": "Cloud Services",
+      "description": "Cloud-first company providing infrastructure solutions to enterprises"
+    },
+    "description": "Looking for a DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines. You'll work with AWS, Kubernetes, Terraform, and Jenkins to ensure reliable, scalable deployments. Strong automation and scripting skills required.",
+    "shortDescription": "Manage cloud infrastructure and CI/CD pipelines using AWS, Kubernetes, and Terraform.",
+    "requirements": {
+      "skills": [
+        {"name": "AWS", "level": "Advanced", "required": true, "category": "Cloud"},
+        {"name": "Kubernetes", "level": "Intermediate", "required": true, "category": "Tool"},
+        {"name": "Terraform", "level": "Intermediate", "required": true, "category": "Tool"},
+        {"name": "Jenkins", "level": "Intermediate", "required": false, "category": "Tool"},
+        {"name": "Docker", "level": "Advanced", "required": true, "category": "Tool"},
+        {"name": "Python", "level": "Intermediate", "required": false, "category": "Programming"}
+      ],
+      "experience": {
+        "min": 3,
+        "max": 6,
+        "level": "Mid"
+      },
+      "education": {
+        "degree": "Bachelor",
+        "required": false
+      },
+      "certifications": [
+        {"name": "AWS Certified Solutions Architect", "required": false, "preferred": true}
+      ]
+    },
+    "details": {
+      "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "country": "United States"
+      },
+      "workMode": "Remote",
+      "employmentType": "Full-time",
+      "salaryRange": {
+        "min": 110000,
+        "max": 160000,
+        "currency": "USD",
+        "period": "yearly"
+      },
+      "benefits": ["Health Insurance", "Remote Work", "Professional Development", "401k"]
+    },
+    "source": {
+      "platform": "Stack Overflow"
+    },
+    "postedDate": "2024-01-14T00:00:00Z",
+    "isActive": true,
+    "qualityScore": 88
+  }
+]
